@@ -1,3 +1,6 @@
+## Changes
+To apply our changes unzip baadal.zip and replace the baadal/ folder in baadalinstallation/baadal with the zipped folder
+
 Baadal
 ============
 
